@@ -1,0 +1,34 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Expo
+.expo/
+.expo-shared/
+
+# Production build
+android/app/build/
+ios/Pods/
+ios/build/
+
+# Other
+.DS_Store
+.env
+.env.local
+.env.*.local
+.cache
+coverage
+.next
+out
+build
+dist
+.vscode
+.idea
